@@ -20,9 +20,9 @@ Courses at DataCamp (at least two)
 
 **Year 2026**
 
-Team 1 Python charmers
+Team 1 "Python charmers"
 
-Team 2 Just five brain cells
+Team 2 "Just five brain cells"
 
 ## Datasets
 
