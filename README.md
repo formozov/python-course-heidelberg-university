@@ -43,12 +43,11 @@ Team 2 Just five brain cells
 
 **Introduction into Imaging and Postprocessing Software** (1 hour + 30 min)
 
-- Introduction in FIJI ImageJ (reading imaging files, basic analysis). Analysis of a sample recording (stack). Median and avarage of a recording.
+- Introduction to FIJI ImageJ (reading imaging files, basic analysis). Analysis of a sample recording (stack). Median and avarage of a recording.
 - Cell segmentation with Cellpose 3
 - Extraction of calcium activity with suite2p
-- Discussion: what we can do with all this data?
 
-**Introduciton to programming and data analysis** (1.5 hours)
+**Introduction to programming and data analysis** (1.5 hours)
 
 - Warming up: what programming is and how it actually works?  Variables, functions, conditions, loops, arrays.
 - Python libraries
