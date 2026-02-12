@@ -36,16 +36,16 @@ Team 2 "Just five brain cells"
 
 ### Hackathon kickoff
 
-**Research question and use cases** (1 hour)
-
-- Brainstorming of a research question and a set of hypotheses
-- Final formulation of a research project
-
 **Introduction into Imaging and Postprocessing Software** (1 hour + 30 min)
 
 - Introduction to FIJI ImageJ (reading imaging files, basic analysis). Analysis of a sample recording (stack). Median and avarage of a recording.
 - Cell segmentation with Cellpose 3
 - Extraction of calcium activity with suite2p
+
+**Research question and use cases** (1 hour)
+
+- Brainstorming of a research question and a set of hypotheses
+- Final formulation of a research project
 
 **Introduction to programming and data analysis** (1.5 hours)
 
